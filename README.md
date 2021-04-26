@@ -4,7 +4,6 @@ I will be the best backend developer🥸. I'll keep trying study.📖
 
 ### Tech Stack
 ![SpringFramework](http://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white) 
-![SpringFramework](http://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) 
 ![Java](http://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) 
 ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) 
 ![PostgreSQL](http://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white) 
